@@ -1,2 +1,2 @@
 # CS231n solutions
- Stanford course CS231n - CNNs for visual Recognition  
+ Stanford course CS231n - CNNs for visual recognition  
