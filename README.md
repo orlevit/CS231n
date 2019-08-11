@@ -1,2 +1,2 @@
-# CS231n
- CS231n - Convolutional Neural Networks for Visual Recognition solutions 
+# CS231n solutions
+ Stanford course CS231n - CNNs for visual Recognition  
